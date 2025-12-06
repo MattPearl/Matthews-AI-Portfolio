@@ -4,6 +4,6 @@ Welcome! This repository contains my projects in:
 - Software Development
 - Automation and Agents
 - Python Foundations
-- -Buisness + Technical Systems Building
+- Buisness + Technical Systems Building
 
 My goal: become a world-class AI builder and buisness man.
